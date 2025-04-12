@@ -1,5 +1,4 @@
-# Bank Account Management System
-
+# Console Based ATM Application
 This is a simple bank account management system built using Python. It allows users to perform basic banking operations like withdrawing money, depositing funds, generating a PIN, and checking a mini statement for their account.
 
 ## Features
